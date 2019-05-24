@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\LeetCodeTrainning\LeetCodeTrainning\bin\Debug\LeetCodeTrainning.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\LeetCodeTrainning\LeetCodeTrainning\bin\Debug\LeetCodeTrainning.exe
+c:\users\administrator\documents\visual studio 2015\Projects\LeetCodeTrainning\LeetCodeTrainning\bin\Debug\LeetCodeTrainning.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\LeetCodeTrainning\LeetCodeTrainning\obj\Debug\LeetCodeTrainning.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\LeetCodeTrainning\LeetCodeTrainning\obj\Debug\LeetCodeTrainning.exe
+c:\users\administrator\documents\visual studio 2015\Projects\LeetCodeTrainning\LeetCodeTrainning\obj\Debug\LeetCodeTrainning.pdb
