@@ -30,5 +30,20 @@ namespace LeetCodeTrainning
             }
             return maxSum;
         }
+        /// <summary>
+        /// 求众数
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <returns></returns>
+        public int MajorityElement(int[] nums)
+        {
+            Array.Sort(nums);
+            return nums[(nums.Length-1) / 2 ];
+        }
+
+        public int FindKthLargest(int[] nums, int k)
+        {
+
+        }
     }
 }
